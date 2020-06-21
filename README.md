@@ -3,7 +3,7 @@
 ### As a cricket fan and a Data Science enthusiast I decided to perform some Data Analysis on IPL data from 2008 - 2017. Since the 2020 IPL season has been postponed and everyone is getting IPL blues, I decided it would be a good idea to look at some IPL statistics in a different way. The dataset has been sourced from [kaggle](https://www.kaggle.com/manasgarg/ipl/data). The dataset contains IPL match data from 2008 - 2017.
 
 ### Based on the data, these were the main questions I focused on answering:
-1. What are the biggest margins of victory by runs?
+[1. What are the biggest margins of victory by runs?](#What-are-the-biggest-margins-of-victory-by-runs?)
 2. Calculating success of a team (No of matches won / No of matches played)
 3. Does winning the toss give a big advantage?
 4. Which are the players with the most Man of the Match awards?
