@@ -15,9 +15,9 @@
 
 # Code and Resources Used
 
-## Python Version : 3.8.2
-## Libraries Used : pandas, numpy, matplotlib, seaborn
-## Dataset : [kaggle](https://www.kaggle.com/manasgarg/ipl/data)
+### Python Version : 3.8.2
+### Libraries Used : pandas, numpy, matplotlib, seaborn
+### Dataset : [kaggle](https://www.kaggle.com/manasgarg/ipl/data)
 
 # Findings
 ___
